@@ -1,7 +1,7 @@
 # SpiralLinux
 
 ### Linux, faster than a snail
-### https://spirallinux.github.io
+#### https://spirallinux.github.io
 
 
 ## Welcome to SpiralLinux
