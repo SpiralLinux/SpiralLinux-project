@@ -14,7 +14,7 @@ SpiralLinux is a selection of Linux spins built from Debian GNU/Linux, with a fo
 - Installable live DVD / USB images around 2GB in size for a wide array of popular desktop environments
 - Built from Debian Stable packages with Debian Backports enabled for newer hardware support
 - Easily upgradable to Debian's Testing or Unstable branches with just a few clicks
-- Optimal Btrfs subvolume layout by default with Zstd transparent compression and automatic Snapper snapshots bootable via GRUB for easy rollbacks
+- Optimal Btrfs subvolume layout with Zstd transparent compression and automatic Snapper snapshots bootable via GRUB for easy rollbacks
 - Graphical manager for Flatpak packages and preconfigured Flatpak theming
 - Font rendering and color theming preconfigured for optimal legibility
 - Preinstalled proprietary media codecs and non-free Debian package repositories ready to use
