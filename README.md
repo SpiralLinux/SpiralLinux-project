@@ -45,6 +45,7 @@ I've used Linux on the desktop since approximately 2001, with Debian-based distr
 - https://github.com/nodiscc/debian-live-config
 - https://github.com/Antynea/grub-btrfs
 - https://github.com/jrabinow/snapper-rollback
+- https://www.kali.org/docs/installation/btrfs/
 - https://wiki.archlinux.org/title/snapper#Suggested_filesystem_layout
 - https://github.com/Deebble/arch-btrfs-install-guide#snapper
 - https://calamares.io/
