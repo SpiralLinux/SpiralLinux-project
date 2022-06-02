@@ -1,10 +1,8 @@
-# SpiralLinux
-
-### Linux, faster than a snail
-#### https://spirallinux.github.io
-
 
 ![SpiralLinux-transparent-small](https://user-images.githubusercontent.com/2692138/171754005-231f6c05-de5a-4b57-9e04-a24defa03ae7.png)
+# SpiralLinux
+### Linux, faster than a snail
+#### https://spirallinux.github.io
 
 
 ## Welcome to SpiralLinux
