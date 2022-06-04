@@ -12,7 +12,7 @@ SpiralLinux is a selection of Linux spins built from Debian GNU/Linux, with a fo
 
 ## SpiralLinux features
 
-- Installable live DVD / USB images around 2GB in size for a wide array of popular desktop environments
+- Installable live DVD / USB images around 2GB in size and carefully configured for a wide array of popular desktop environments
 - Built from Debian Stable packages with newer hardware support preinstalled from Debian Backports
 - Easily upgradable to Debian's Testing or Unstable branches with just a few clicks ([instructions](https://github.com/SpiralLinux/SpiralLinux-project/wiki#switching-from-debian-stable-to-the-testing-or-unstable-branch))
 - Optimal Btrfs subvolume layout with Zstd transparent compression and automatic Snapper snapshots bootable via GRUB for easy rollbacks ([instructions](https://github.com/SpiralLinux/SpiralLinux-project/wiki#working-with-btrfs-snapshots-and-rollbacks))
