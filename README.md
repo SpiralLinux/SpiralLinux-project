@@ -29,7 +29,9 @@ SpiralLinux is a selection of Linux spins built from Debian GNU/Linux, with a fo
 - Installed system can be smoothly upgraded to future Debian releases while retaining its unique SpiralLinux configuration
 
 
-## Download SpiralLinux: https://spirallinux.github.io
+## Download SpiralLinux:
+
+### https://spirallinux.github.io
 
 
 ## Why another Debian-based distro?
