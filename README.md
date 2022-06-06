@@ -7,7 +7,7 @@
 
 ## Welcome to SpiralLinux
 
-SpiralLinux is a selection of Linux spins built from Debian GNU/Linux, with a focus on simplicity and out-of-the-box usability across all the major desktop environments. SpiralLinux serves as an alternative live installation method for a customized yet clean Debian system using only official Debian package repositories.
+SpiralLinux is a selection of Linux spins built from Debian GNU/Linux, with a focus on simplicity and out-of-the-box usability across all the major desktop environments. SpiralLinux serves as an alternative live installation method for a highly reliable customized Debian system using only official Debian package repositories.
 
 
 ## SpiralLinux features
